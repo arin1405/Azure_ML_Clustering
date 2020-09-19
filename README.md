@@ -16,6 +16,6 @@ Each row of the dataset represents a car from the inventory, each column contain
 - acceleration: acceleration of cars - zero to sixty miles/hour time
 - model year: year of model
 
-Team members’ name: Arindam Banerjee.
-Used technology: Python and Azure ML.
+**Team members’ name: Arindam Banerjee.**
+**Used technology: Python and Azure ML.**
 
